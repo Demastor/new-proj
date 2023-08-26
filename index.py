@@ -1,3 +1,5 @@
 x = int(input('Введите цифру: '))
-print(x)
+
+print(x + 1)
+
 
