@@ -1,5 +1,5 @@
 x = int(input('Введите цифру: '))
-
-print(x + 1)
+y = x + 2
+print(y + 1)
 
 
