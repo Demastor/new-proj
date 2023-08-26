@@ -1,2 +1,2 @@
 x = int(input('Введите цифру: '))
-print(x)
+print(x,'Цифра')
