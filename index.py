@@ -1,2 +1,2 @@
-x = int(input('Введите слово: '))
-print(x)
+x = int(input('Введите цифру: '))
+print('Цифра', x)
